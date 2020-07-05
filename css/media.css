@@ -1,0 +1,30 @@
+@media screen and (max-width:715px) {
+  header nav {
+    margin-bottom: 1rem !important;
+  }
+
+  #subscribe_button {
+    margin-top: 1rem;
+  }
+}
+
+@media screen and (max-width:920px) {
+  #newsletter>.container {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  #email {
+    width: 230px;
+  }
+}
+
+@media screen and (max-width:400px) {
+  h1{
+    font-size: 1.5rem;
+  }
+  #showcase h1{
+    font-size: 3rem;
+  }
+}
